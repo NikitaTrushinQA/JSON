@@ -1,1 +1,16 @@
-
+{
+  "Environment":"Description of environment",
+  "ID":"nubmer of bug report" ,
+  "Summary":"What?Where?Why?",
+  "Environment":"pc,mobile,browser,build",
+  "STR":{
+          "Step1":"step1 description",
+          "Step2":"step2 description"          
+        },
+        "version","Number of  version",
+  "Severity":"s1,s2,s3,s4,s5",
+  "Priority":"p1,p2,p3",
+  "Expected Result":"<Description of expected result>",
+  "Actual Result":"<Description of actual result>",
+  "Attachments":"link,video,photo"
+}
